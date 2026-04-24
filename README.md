@@ -18,49 +18,6 @@ My interests include:
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 Discord Voice AI Bot *(private / in progress)*
-A full pipeline voice interaction system:
-- Speech-to-Text (Whisper)
-- Text processing (AI integration)
-- Text-to-Speech (Coqui TTS)
-- Real-time voice channel interaction
-
----
-
-### 🧠 Neural Network Architecture Analysis  
-[🔗 View Repository](https://github.com/SupremeIntelligence/analysis-of-neural-network-architectures)
-
-Research and experimentation with different neural network architectures:
-- MLP, CNN, and model comparisons
-- Performance analysis
-- Practical experiments
-
----
-
-### 📊 Time Series Statistical Analysis  
-🔗 [View Repository](https://github.com/SupremeIntelligence/statistical-analysis-of-time-series)
-
-Modeling and analysis of stochastic processes:
-- GARCH models
-- Distribution analysis (Exponential, GIG, α-stable)
-- Simulation of financial time series
-
----
-
-## 🗂 Additional Work
-
-### 📚 Academic Archive  
-[🔗 View Repository](https://github.com/SupremeIntelligence/famcs-academic-archive)
-Collection of university projects (databases, networking, math, etc.)
-
-### ⚙️ Algorithms & Data Structures  
-[🔗 View Repository](https://github.com/SupremeIntelligence/algorithms-and-data-structures)
-Classic implementations and problem solving
-
----
-
 ## 🛠 Tech Stack
 
 **Languages:**
